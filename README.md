@@ -19,3 +19,10 @@ This Python script fetches and displays current weather details for a user-speci
 2. Install the `requests` library using pip:
    ```bash
    pip install requests
+## API Key Setup
+
+- This script uses the OpenWeatherMap API, which requires an API key. To use this script, you must replace the placeholder API key with your own:
+
+- Sign up at OpenWeatherMap to get a free API key.
+
+- Open the script and replace the API_KEY variable with your API key: API_KEY = "your_api_key_here"
